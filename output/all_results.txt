@@ -1,0 +1,7 @@
+RECON REPORT
+
+Target: example.com
+
+[LIVE] www.example.com
+[BLOCKED] admin.example.com
+[FOUND] api.example.com => 403
