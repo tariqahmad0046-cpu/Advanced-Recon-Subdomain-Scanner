@@ -1,0 +1,10 @@
+www
+mail
+ftp
+test
+dev
+admin
+api
+blog
+shop
+portal
