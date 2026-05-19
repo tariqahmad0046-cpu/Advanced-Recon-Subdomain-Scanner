@@ -1,0 +1,6 @@
+LIVE SUBDOMAINS
+
+example.com
+www.example.com
+admin.example.com
+api.example.com
